@@ -1,0 +1,4 @@
+Release0.1/
+  First vertical slice - a GUI that doesn't interact with the user or do anything.
+Release1.0/
+  2nd major release - GUI that evaluates postfix/infix expressions, resets answer box and outputs error messages.

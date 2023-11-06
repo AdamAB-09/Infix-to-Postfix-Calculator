@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\BadTypeException.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\CalcController.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\CalcModel.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Calculator.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Entry.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\GuiView.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\InvalidExpression.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Launcher.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\NumStack.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Observer.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\OpStack.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\OpType.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\RevPolishCalc.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Stack.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\StandardCalc.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\StrStack.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Symbol.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\Type.java">
+</file>
+<file name="C:\Users\adamt\eclipse-workspace\calculator\src\main\java\calculator\ViewInterface.java">
+</file>
+</checkstyle>

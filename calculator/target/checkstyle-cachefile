@@ -1,0 +1,23 @@
+#Tue Feb 02 15:13:59 GMT 2021
+configuration*?=C524847248E12B0FA1A52104B4DC491947A4809C
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\StrStack.java=1611161861128
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Calculator.java=1611161861168
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Entry.java=1611161861241
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\CalcModel.java=1611161861018
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\GuiView.java=1611161861133
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Observer.java=1611161861155
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\CalcController.java=1611161861013
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Type.java=1611161861227
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\BadTypeException.java=1611161861209
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Launcher.java=1611161861150
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\ViewInterface.java=1611161861163
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\InvalidExpression.java=1611161861172
+module-resource*?\:checkstyle-xpath-suppressions.xml=ACB4319C5178B6B5788B4C6BC98815393EE473D7
+module-resource*?\:checkstyle-suppressions.xml=8E315B8488F6773A2E89C3253A324B539C2D96F0
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\OpType.java=1611161861159
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\OpStack.java=1611161861191
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\NumStack.java=1611161861177
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Stack.java=1611161861037
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\StandardCalc.java=1611161861106
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\RevPolishCalc.java=1611161861205
+C\:\\Users\\adamt\\eclipse-workspace\\calculator\\src\\main\\java\\calculator\\Symbol.java=1611161861213
