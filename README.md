@@ -3,18 +3,10 @@ This is my second year project in Software Engineering, for which I've been assi
 by anybody and is able to evaluate infix or postfix expressions. This calculator will be able to process expressions that
 use multiplication, division, addition and subtraction. Parentheses will be accepted as well.
 
-## Version
-
-Project versions:
-
-* Version 0.1
-* Version 1.1
-
 ## Project status
 I have been able to successfully implement all the necessary features to make the GUI work and interact with user. It's able to
-process infix/postfix expressions, output multiple error messages to the user and reset the answer text box of recently. I wanted
-to also implement an ASCII view of the calculator so the user has a choice of use, however it seems the GUI is the furthest
-I'll be able to implement.
+process infix/postfix expressions, output multiple error messages to the user and reset the answer text box of recently. The GUI is also up
+to date and allows for quick navigation by the user.
 
 ## How to use
 It's very simple to use. You type your expression within the expression text box as prompted and press the calculate button
